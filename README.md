@@ -1,8 +1,6 @@
 # SimpleCeilingFan
 Ceiling Fan Functionality
 
-Fan Test Problem Statement:
-
 Using Core Java, Implement a simple ceiling fan with these characteristics:
 
 · The unit has 2 pull cords:
